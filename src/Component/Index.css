@@ -1,0 +1,56 @@
+h1{
+    font-size: 3rem;
+  }
+
+  .left{
+    margin-left:20% ;
+    
+  }
+
+  .detail{
+    margin:30% 0 100% 0 ;
+  }
+  
+  h3 {
+    background: -webkit-linear-gradient(60deg,#ff3a7c,#741eff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+ 
+  .right{
+    margin-left: 5%;
+    
+    /* top: 30px; */
+    position: relative;
+    padding: 10px 10px 500px 10px;
+
+  
+
+    
+   
+  
+  
+
+ 
+  }
+  video{
+    position: fixed;
+
+
+   
+       
+  } 
+  
+ .navbar{
+    z-index: 1;
+ }
+
+.Book {
+  background-image: linear-gradient(135deg,#0084e9,#762cec);
+
+
+}
+.Book:hover{background-color: #fff;}
+ 
+ 
